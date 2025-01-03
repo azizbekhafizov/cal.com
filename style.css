@@ -619,6 +619,7 @@ footer{
   height: 585px;
   border-radius: 32px;
   display: flex;
+  gap: 45px;
 }
 
 .footer-logo-section {
@@ -655,6 +656,8 @@ footer{
 
 .footer-section h3 {
   font-size: 16px;
+  font-weight: 600;
+  line-height: 26px;
   margin-bottom: 10px;
 }
 
@@ -664,7 +667,10 @@ footer{
 }
 
 .footer-section ul li {
-  font-size: 14px;
+  font-size: 17px;
+  line-height: 26px;
+  font-weight: 400;
+  color: rgba(249, 250, 251, 1);
   margin-bottom: 8px;
 }
 
